@@ -1,4 +1,6 @@
 name: Greet
+
+on:
   workflow_dispatch:
 
 jobs:
